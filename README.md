@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Muhammad%20Shihab%20Al-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohammed%20Shihab%20Al-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Hello, I'm Muhammad Shihab Al-Din</h1>
+<h1 align="center">👋 Hello, I'm Mohammed Shihab Al-Din</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20Problem%20Solving%20%7C%20OOP;Java%20%7C%20Stream%20API%20%7C%20Multithreading;Clean%20Code%20%26%20Software%20Architecture;Future%20Backend%20Engineer"/>
