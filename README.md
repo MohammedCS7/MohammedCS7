@@ -72,21 +72,17 @@
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Current Projects & Lab Work
 
-### ☕ Student Management System
-A robust and highly organized core management system built in Java, showcasing clean OOP design patterns, data structure implementations, and strict naming conventions.
-
-https://github.com/MohammedCS7
-
----
-
-### 💻 Problem Solving Laboratory
-A collection of efficient, production-ready solutions for complex geometric and algorithmic problems built during my journey with Eng. Mohammed Abu-Hadhoud.
-
-https://github.com/MohammedCS7
+### ☕ Student Management System (In Development 📱)
+A core backend learning project built in Java to master advanced OOP concepts, custom interfaces (Comparable), and data structures. Currently being developed and tested locally on environment setups.
+> 🔄 *Status: Refactoring code architecture & finalizing logic before initial push.*
 
 ---
+
+### 💻 Problem Solving Laboratory (C++)
+A collection of efficient solutions for geometric, mathematical, and algorithmic problems being built during my journey with Eng. Mohammed Abu-Hadhoud.
+> 🔄 *Status: Pushing solutions continuously as I progress through the roadmap.*
 
 # 📬 Connect With Me
 
