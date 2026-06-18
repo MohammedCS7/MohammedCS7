@@ -3,39 +3,38 @@
 <h1 align="center">👋 Hello, I'm Mohammed Shihab Al-Din</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20Problem%20Solving%20%7C%20OOP;Java%20%7C%20Stream%20API%20%7C%20Multithreading;Clean%20Code%20%26%20Software%20Architecture;Future%20Backend%20Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Problem+Solving+%7C+Core+Logic;Java+%7C+OOP+Basics;Building+a+Solid+Foundation"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Student at **Sudan University of Science and Technology (SUST)**
+🎓 1st-Year Student at **Sudan University of Science and Technology (SUST)**
 
-💻 Passionate about **Software Architecture & Clean Code**
+💻 Dedicated to mastering **Programming Fundamentals & Logic Building** before moving to high-level frameworks.
 
 📚 Focused on:
- 🔹 C++ Fundamentals & Algorithmic Thinking
- 🔹 Object-Oriented Programming (OOP)
- 🔹 Problem Solving with Eng. Mohammed Abu-Hadhoud
+ 🔹 C++ Language Fundamentals & Control Flow
+ 🔹 Problem Solving & Algorithmic Thinking with Eng. Mohammed Abu-Hadhoud
+ 🔹 Object-Oriented Programming (OOP) Core Concepts
 
-📈 Currently expanding into:
- 🔹 Java Backend Development
- 🔹 Advanced Data Structures
- 🔹 Stream API & Multithreading Systems
- 🔹 Power User Environments (Linux/Termux Dev Setups & ADB)
+📈 Current Goals:
+ 🔹 Writing clean, readable, and well-structured code
+ 🔹 Solving continuous logic puzzles and algorithmic challenges
+ 🔹 Learning essential developer workflows (Git, Branching, and Command Line)
 
 ---
 
 # 🛠 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,git,github"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Clean_Code-Mindset-0078D4?style=for-the-badge&logo=codefactor&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Tuning-Power_User-CC2927?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-Every_Day-success?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -47,7 +46,6 @@
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MohammedCS7&theme=tokyonight"/>
 </p>
