@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohammed%20Shihab%20Al-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohammed%20Shihab%20El-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hello, I'm Mohammed Shihab El-Din</h1>
 
