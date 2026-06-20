@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohammed%20Shihab%20Al-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Hello, I'm Mohammed Shihab Al-Din</h1>
+<h1 align="center">👋 Hello, I'm Mohammed Shihab El-Din</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Problem+Solving+%7C+Core+Logic;Java+%7C+OOP+Basics;Building+a+Solid+Foundation"/>
