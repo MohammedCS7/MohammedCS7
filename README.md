@@ -30,7 +30,6 @@ public:
 ### 🏆 Recent Milestones
 * **Completed Course 7 (Algorithms & Problem Solving Level 3):** Mastered advanced matrix manipulations, 2D arrays, complex string tokenization (split/join workflows), and dynamic file-RAM synchronization layers.
 * **Currently Scaling Course 8 (Algorithms & Problem Solving Level 4):** Diving into higher-tier programmatic solutions and structural optimization to solidify problem-solving skills before entering OOP architectures.
-* **Version Control Proficiency:** Implementing professional Git workflows, handling local feature branching (`git merge`), release tagging (`v1.0`, `v2.0`, `v3.0`), and managing neat repository documentation.
 
 ---
 
