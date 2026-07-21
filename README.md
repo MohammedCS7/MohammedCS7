@@ -30,7 +30,7 @@ public:
 ### 🏆 Recent Milestones
 * **Completed Course 7 (Algorithms & Problem Solving Level 3):** Mastered advanced matrix manipulations, 2D arrays, complex string tokenization (split/join workflows), and dynamic file-RAM synchronization layers.
 * **Currently Scaling Course 8 (Algorithms & Problem Solving Level 4):** Diving into higher-tier programmatic solutions and structural optimization to solidify problem-solving skills before entering OOP architectures.
-* **Version Control Proficiency:** Implementing professional Git workflows, handling local feature branching (`git merge`), and managing neat repository documentation.
+* **Version Control Proficiency:** Implementing professional Git workflows, handling local feature branching (`git merge`), release tagging (`v1.0`, `v2.0`, `v3.0`), and managing neat repository documentation.
 
 ---
 
@@ -38,9 +38,13 @@ public:
 
 Here are the functional architectural applications engineered during my logic-building and algorithmic phases:
 
-### 1. [Mini Bank System (With Transactions Extension)](https://github.com/MohammedCS7/Mini-Bank-System) 🏦
-A robust console-based banking management application designed during Course 7 to handle secure client records and financial operations via local storage.
-* **Key Implementations:** Strict procedural abstraction layers separating I/O validation from logical workflows, efficient memory querying utilizing `std::vector` passed exclusively by reference (`&`), custom data tokenization using strategic delimiter parsing (`#//#`), and transactional tracking (Deposit/Withdrawal systems with overdraft validation).
+### 1. [Console Bank Management System (With User Management & Bitwise Permissions)](https://github.com/MohammedCS7/Mini-Bank-System) 🏦
+A comprehensive console-based banking application built in C++, featuring persistent file storage, real-time transaction processing, and a granular bitwise permission architecture.
+* **Key Implementations:**
+  * **Multi-Phase Architecture:** Engineered progressively across three releases (Client CRUD Registry, Transactions Engine, and User Accounts Administration).
+  * **Bitwise Permission Control:** Fine-grained sub-menu authorization powered by bitwise enum flags to enforce strict role-based access control.
+  * **RAM-First Execution:** Data (`Clients.txt` & `Users.txt`) is processed in high-speed RAM using `std::vector` passed exclusively by reference (`&`), syncing back to disk only during persistent saves.
+  * **Defensive I/O Parsing:** Custom string tokenization using strategic delimiters (`#//#`) and robust input validation routines (`ReadString`, `ReadDouble`, `ReadNumberInRange`) to handle stream state cleanly.
 
 ### 2. [Math Quiz Game](https://github.com/MohammedCS7/Math-Quiz) 🧠
 A dynamic command-line quiz application showcasing optimized state handling and defensive programming.
