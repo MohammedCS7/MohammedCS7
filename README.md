@@ -1,9 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Mohammed%20Shihab%20El-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=240&section=header&text=Mohammed%20Shihab%20El-Din&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Hello, I'm Mohammed Shihab El-Din</h1>
-
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Advanced+Logic+Building;Completed+Abu-Hadhoud+Course+7;Advancing+to+Algorithms+Level+4"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Advanced+Logic+Building;Completed+Abu-Hadhoud+Course+7;Advancing+to+Algorithms+Level+4"/>
+</p>
+
+<!-- Identity Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Code-Mindset-00F7FF?style=for-the-badge&logo=codefactor&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Memory_Management-Pass_By_Reference-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
 </p>
 
 ---
