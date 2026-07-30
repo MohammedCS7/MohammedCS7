@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Advanced+Logic+Building;Completed+Abu-Hadhoud+Course+7;Advancing+to+Algorithms+Level+4"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Advanced+Logic+Building;Completed+Abu-Hadhoud+Course+8;Advancing+to+Foundations+Level+2"/>
 </p>
 
 <!-- Identity Badges -->
