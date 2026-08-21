@@ -35,7 +35,7 @@ public:
 
 ### 🏆 Recent Milestones
 * **Completed Course 8 (Algorithms & Problem Solving Level 4):** Mastered higher-tier programmatic solutions, complex structural optimization, and robust state management. Successfully engineered advanced architectural applications (Bank & ATM Systems) to solidify problem-solving skills before entering OOP.
-* **Currently Scaling Course 9 | 10 (Foundations Level 2 | OOP Concepts):** Diving into advanced software engineering foundations and professional development practices to prepare the ground for Object-Oriented Programming (OOP) architectures.
+* **Currently Scaling Course 9 | 11 (Foundations Level 2 | OOP Applications):** Diving into advanced software engineering foundations and professional development practices to prepare the ground for Object-Oriented Programming (OOP) architectures.
 
 ---
 
