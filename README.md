@@ -3,13 +3,14 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+Advanced+Logic+Building;Completed+Abu-Hadhoud+Course+8;Advancing+to+Course+9+|+10+|+11"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+%7C+OOP+%7C+Data+Structures;Completed+Abu-Hadhoud+Course+13;Advancing+to+Course+14+|+C%23+Level+1"/>
 </p>
 
 <!-- Identity Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Clean_Code-Mindset-00F7FF?style=for-the-badge&logo=codefactor&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Memory_Management-Pass_By_Reference-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/OOP-Architecture-0F2027?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Data_Structures-Memory_Safe-00F7FF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
 </p>
 
 ---
@@ -18,64 +19,63 @@
 
 🎓 1st-Year Computer Science Student at **Sudan University of Science and Technology (SUST)**.
 
-💻 Deeply committed to mastering core programming logic, data structures, and memory optimization before branching into high-level frameworks.
+💻 Deeply committed to mastering core programming logic, memory optimization, and software architecture. Having built a strong foundation in C++ memory management and OOP, I am now expanding into the .NET ecosystem.
 
 ```cpp
 class FutureBackendEngineer {
 public:
-    std::string track      = "Future Backend Engineer";
+    std::string track = "Future Backend Engineer";
+    std::vector<std::string> currentStack = {"C++", "C#", "Data Structures", "OOP"};
     std::string philosophy = "Consistency over intensity. Write code for humans first.";
 
     void initializeWorkflow() 
     {
-        std::cout << "System ready. Building awesome things daily... 🚀" << std::endl;
+        std::cout << "System ready. Transitioning to C#... 🚀" << std::endl;
     }
 };
 ```
 
 ### 🏆 Recent Milestones
-* **Completed Course 8 (Algorithms & Problem Solving Level 4):** Mastered higher-tier programmatic solutions, complex structural optimization, and robust state management. Successfully engineered advanced architectural applications (Bank & ATM Systems) to solidify problem-solving skills before entering OOP.
-* **Currently Scaling Course 9 | 11 (Foundations Level 2 | OOP Applications):** Diving into advanced software engineering foundations and professional development practices to prepare the ground for Object-Oriented Programming (OOP) architectures.
+* **Conquered OOP & Data Structures (Courses 9–13):** Mastered Object-Oriented Programming architectures (Levels 1 & 2), and engineered custom Data Structures from scratch (Abstract Data Types including Dynamic Arrays, Linked Lists, Stacks, and Queues) to deeply understand memory behavior before relying on built-in libraries.
+* **Currently Scaling Course 14 (C# - Level 1):** Transitioning from low-level C++ mechanics to the C# language and .NET framework to begin developing professional desktop and backend applications.
 
 ---
 
 # 🚀 Featured C++ Projects (Foundational Capstones)
 
-Here are the functional architectural applications engineered during my logic-building and algorithmic phases:
+Here are the functional architectural applications engineered during my logic-building, OOP, and algorithmic phases:
 
-### 1. [Console Bank Management System (With User Management & Bitwise Permissions)](https://github.com/MohammedCS7/Mini-Bank-System) 🏦
-A comprehensive console-based banking application built in C++, featuring persistent file storage, real-time transaction processing, and a granular bitwise permission architecture.
+### 1. [Custom Data Structures Library (C++)](https://github.com/MohammedCS7/Cpp-Learning/tree/main/Course%2013%20Projects) 🧠
+Engineered manual, memory-safe implementations of core Abstract Data Types (ADTs) to understand what happens under the hood of standard libraries.
+* **Key Implementations:** Built pure C++ templates for Dynamic Arrays, Doubly Linked Lists, Stacks, and Queues. Focus on minimizing time complexity (O(1) insertions where possible), preventing memory leaks via careful pointer/destructor management, and strict separation of the ADT interface from internal logic.
+
+### 2. [Console Bank Management System (OOP & Bitwise Permissions)](https://github.com/MohammedCS7/Mini-Bank-System) 🏦
+A comprehensive console-based banking application initially built structurally, then fully refactored into a robust Object-Oriented Architecture.
 * **Key Implementations:**
-  * **Multi-Phase Architecture:** Engineered progressively across three releases (Client CRUD Registry, Transactions Engine, and User Accounts Administration).
+  * **OOP Refactoring:** Transitioned from procedural logic to encapsulated classes handling Client CRUD, Transactions, and User Accounts.
   * **Bitwise Permission Control:** Fine-grained sub-menu authorization powered by bitwise enum flags to enforce strict role-based access control.
-  * **RAM-First Execution:** Data (`Clients.txt` & `Users.txt`) is processed in high-speed RAM using `std::vector` passed exclusively by reference (`&`), syncing back to disk only during persistent saves.
-  * **Defensive I/O Parsing:** Custom string tokenization using strategic delimiters (`#//#`) and robust input validation routines (`ReadString`, `ReadDouble`, `ReadNumberInRange`) to handle stream state cleanly.
+  * **RAM-First Execution:** Data is processed in high-speed RAM using `std::vector`, syncing back to disk only during persistent saves to minimize I/O overhead.
 
-### 2. [Mini ATM System](https://github.com/MohammedCS7/Mini-ATM-System) 🏧
+### 3. [Mini ATM System](https://github.com/MohammedCS7/Mini-ATM-System) 🏧
 A secure console-based ATM terminal engineered with strict authentication workflows and memory-efficient transaction handling.
 * **Key Implementations:**
   * **Authentication & Session State:** Robust login validation against a verified client database, maintaining secure session data globally.
   * **Transaction Validations:** Algorithmic constraints for withdrawals (multiples of 5, balance checks) and cross-account money transfers ensuring system consistency.
-  * **Mutual File-RAM Synchronization:** Instantaneous disk saving post-transaction while keeping data queries strictly in memory for optimized performance.
 
-### 3. [Math Quiz Game](https://github.com/MohammedCS7/Math-Quiz) 🧠
+### 4. [Math Quiz Game](https://github.com/MohammedCS7/Math-Quiz) 🧮
 A dynamic command-line quiz application showcasing optimized state handling and defensive programming.
-* **Key Implementations:** Advanced **Pass-by-Reference (`&`)** to eliminate redundant memory copying of arrays in the RAM, multi-tier randomized difficulty matrices, and localized `do-while` validation loops to bypass floating-point compiler truncation bugs during division.
-
-### 4. [Stone Paper Scissors](https://github.com/MohammedCS7/Rock-Paper-Scissors-Game) 🪨📄✂️
-An interactive execution flow game designed around algorithmic predictability and sequential game loops.
-* **Key Implementations:** Structured state machines, centralized enumeration mappings (`enum`), hardware-seeded randomization engines, and native UI console color state transitions based on player evaluation metrics.
+* **Key Implementations:** Advanced **Pass-by-Reference (`&`)** to eliminate redundant memory copying, multi-tier randomized difficulty matrices, and localized `do-while` validation loops to bypass floating-point compiler truncation bugs during division.
 
 ---
 
 # 🛠 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,git,github,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,git,github,visualstudio"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Clean_Code-Mindset-0078D4?style=for-the-badge&logo=codefactor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-OOP-0078D4?style=for-the-badge&logo=codefactor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Memory_Management-Pass_By_Reference-success?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
@@ -91,5 +91,7 @@ An interactive execution flow game designed around algorithmic predictability an
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedCS7&theme=tokyonight" />
+  <a href="https://github.com/MohammedCS7">
+    <img src="https://ghchart.rshah.org/00F7FF/MohammedCS7" alt="Mohammed's GitHub Contribution Chart" />
+  </a>
 </p>
