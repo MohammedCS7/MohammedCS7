@@ -68,6 +68,20 @@ A dynamic command-line quiz application showcasing optimized state handling and 
 
 ---
 
+# 🚀 Featured C# & .NET Projects (Desktop & GUI Architecture)
+
+Here are the functional architectural applications engineered during my transition into C# and event-driven GUI development:
+
+### 1. [Simple Windows Forms Calculator (GUI & State Architecture)](https://github.com/MohammedCS7/Simple-Calculator-WinForms) 🧮
+A robust desktop calculator application built with **C#** and **Windows Forms**, demonstrating advanced UI state management, defensive input handling, and event-driven control execution.
+* **Key Implementations:**
+  * **Chain Operation Logic:** Implemented dynamic state tracking using an `enum Operation` and historical operator cache to process multi-step arithmetic chains (e.g., continuous operations) seamlessly without requiring manual resets.
+  * **Defensive Parsing & Guard Clauses:** Integrated `double.TryParse` validation across all execution paths to ensure complete zero-crash tolerance during invalid inputs, alongside guard rules preventing decimal point duplication and string truncation bugs on backspaces.
+  * **Smart Auto-Reset & Code Reusability:** Built automatic state resets upon pressing new operands following an evaluation (`=`), optimizing control code through recycled event handlers.
+  * **Dynamic UI Theming:** Implemented runtime background and foreground color toggling to support seamless Dark/Light mode switching across all controls.
+
+---
+
 # 🛠 Skills & Tools
 
 <p align="center">
